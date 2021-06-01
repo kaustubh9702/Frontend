@@ -1,0 +1,43 @@
+#img{
+    height:70
+}
+.font1{
+    font-family: 'Pattaya', sans-serif;
+}
+
+.font2{
+    font-family: 'Libre Baskerville', serif;
+}
+#head{
+    background : linear-gradient(to right rgba(0, 0, 0, 0.801), rgba(0,0,0,0.5));
+}
+
+.js{
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(206,153,212,1) 22%, rgba(0,212,255,1) 100%);
+}
+
+.js1{
+
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(153,172,212,1) 0%, rgba(0,212,255,1) 100%);
+}
+
+.js2{
+
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(20,187,143,1) 0%, rgba(0,212,255,1) 100%);
+}
+
+
+
+
+
+.js3{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(222,75,172,1) 0%, rgba(0,212,255,1) 100%);
+}
+.btn{
+    border-radius: 10rem;
+    
+}
